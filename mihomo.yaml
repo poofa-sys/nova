@@ -266,6 +266,16 @@ proxies:
   - {name: "سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]", server: 141.101.114.190, port: 2053, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]", server: 141.101.114.190, port: 443, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
   - {name: "سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]", server: 104.26.42.161, port: 2096, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]", server: 104.25.73.178, port: 2053, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]", server: 104.25.73.178, port: 2096, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]", server: 104.25.73.178, port: 8443, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]", server: 104.25.73.178, port: 2087, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]", server: 104.25.73.178, port: 2083, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]", server: 104.25.73.178, port: 443, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]", server: 104.20.6.137, port: 2053, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]", server: 104.19.120.132, port: 443, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]", server: 104.19.120.132, port: 2083, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
+  - {name: "سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]", server: 104.20.6.137, port: 8443, type: vless, uuid: 9868b46c-5ff3-4d2c-81f2-2eff7c25041b, tls: true, skip-cert-verify: false, servername: nova-coral-node-c6b4.falizipooyan1367.workers.dev, client-fingerprint: chrome, network: ws, ws-opts: {path: "/proxyip=129.159.84.71?ed=2560", headers: {Host: nova-coral-node-c6b4.falizipooyan1367.workers.dev}}}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -511,6 +521,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -752,6 +772,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -992,6 +1022,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
   - name: 🔮 负载均衡
     type: load-balance
     strategy: consistent-hashing
@@ -1233,6 +1273,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -1493,6 +1543,16 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
   - name: ☁️ CloudFlareCDN
     type: select
     proxies:
@@ -1739,13 +1799,17 @@ proxy-groups:
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:2053 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 141.101.114.190:443 [VLESS]
       - سرویس رایگان نوا @irnova_proxy 104.26.42.161:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2096 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:8443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2087 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.25.73.178:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:2053 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:443 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.19.120.132:2083 [VLESS]
+      - سرویس رایگان نوا @irnova_proxy 104.20.6.137:8443 [VLESS]
 rules:
-# PHISHING BLOCK RULES
-  - GEOSITE,category-phishing,REJECT
-  - GEOSITE,phishing,REJECT
-# MALWARE BLOCK RULES
-  - GEOSITE,category-malware,REJECT
-  - GEOSITE,malware,REJECT
 # IRANIAN DIRECT RULES
   - DOMAIN-SUFFIX,ir,DIRECT
   - GEOIP,IR,DIRECT,no-resolve
@@ -8172,6 +8236,106 @@ rules:
   - DOMAIN,yz8yn0nr.td3wc.adobestats.io,🛑 全球拦截
   - DOMAIN,zpbpfbu6cpq.td3wc.adobestats.io,🛑 全球拦截
   - DOMAIN,zxreowyzyof.td3wc.adobestats.io,🛑 全球拦截
+  - DOMAIN,5llohiaf7b8b.61y77.adobestats.io,🛑 全球拦截
+  - DOMAIN,ubhkyiqkbp.xwk4b.adobestats.io,🛑 全球拦截
+  - DOMAIN,g7os4a6l.xwk4b.adobestats.io,🛑 全球拦截
+  - DOMAIN,y6e93e0muejm.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,1hac93w4ciq.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,01abhoynm.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,0ooc20j9s.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,1gby18snre.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,1oz5hcjo.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,290rf2vhmu.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,30q933u7wy9r.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,36ozobot30z.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,3kuc4wqjj.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,3o85zdgjsx.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,3ome07ychh.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,42ory1yh.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,4f7jz1g4.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,4iulukcwiegq.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,4mat7xp2xg5g.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,50kpnscqsj.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,5im6bd893.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,6il8a3gzd.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,7phwb6gtdcht.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,7vm0xgjs0.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,7xapbz5h2.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,8i07lr2rq.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,8iub6mx157.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,9cs6rc6276b.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,9o0jk46qf0.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,9wqj0iv0yf.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,aalb8k11in.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,adngtkuc6b5.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,aed8sg7yz.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,annjtcryg62b.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,by87c7ec.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,c4yb8tz6izw.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,c5tyuqjsd.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,chnhlmohuv.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,cvhlqpka3s.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,d12u58m1b.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,d335krk4.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,d9ed5hg1qkl.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,dhaxfwpz4bo0.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,dkz7ipdfyh.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,dpej8fcn25t8.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,dr8x5omtss.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,eckbuc2d721m.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,egpmu3m9ouie.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,fpqy3zb8.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,fpr3nxsr.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,fqwuxxkmqg.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,g8b5rgjre.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,gsbaswsx.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,hsemeynpq0zk.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,i86482u77.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,ieqa4ytluh1i.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,izktsj8t.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,jln11nvsqd.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,kyjvuf68in.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,l04lq23zzw6.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,lckizcs8o.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,lnqubgnso.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,lnrbgca6tkj.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,maxx5ddw4.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,oto8hz22l.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,ouf9hcf0jt.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,pt4vvg35di.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,q17pfsrw.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,q6tdlirko.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,qhs2v26k5.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,qqbp8gj8il.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,qsxuikk100.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,qw4i1um9em.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,rbwbrei60xwp.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,rpdipj5zz.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,rphyzefeaz.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,s9y2hfs9.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,sr5awkb8ue8q.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,st0bx76jdf4x.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,tlb4is2tf.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,u29gfjmwa0.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,u3qf7ehi4gp.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,ut5nd2k6aeo5.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,utxfcphncs8t.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,vcd913y3.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,w52otih99rc9.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,waqbx5t4lv.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,wdrm00gf1a.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,wi8m746hdbn.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,wntv058amun.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,wrrawpzaso.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,wuielahst2wf.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,x1gi903hr19.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,xr02q7ltcx6l.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,xu52f3tbxfz.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,xwu5z1zb09.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,yfm7nstt.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,ylvb9g7k5n.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,zcq3wsd5lnx.nr94p.adobestats.io,🛑 全球拦截
+  - DOMAIN,zkw1mdmx.nr94p.adobestats.io,🛑 全球拦截
   - DOMAIN-SUFFIX,265.com,🚀 节点选择
   - DOMAIN-SUFFIX,2mdn.net,🚀 节点选择
   - DOMAIN-SUFFIX,alt1-mtalk.google.com,🚀 节点选择
